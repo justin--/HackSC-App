@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Social alarm</string>
+    <string name="setAlarm">Set Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="userId">Enter ID</string>
+    <string name="status">Awaiting Alarms ...</string>
+
+</resources>
